@@ -1,0 +1,121 @@
+C:\Users\guiga004\AppData\Local\Programs\Python\Python37-32\python.exe C:/Users/guiga004/PycharmProjects/CSCI4511W/testing.py
+
+********** wi29 testing **********
+
+
+***** Genetic Algorithm *****
+
+Initial distance: 88455.28598293515
+Final distance: 31707.18333427299
+
+Genetic Algorithm Run Time:  21.829675436019897  seconds
+
+
+***** Ant Colony Algorithm *****
+
+ > iteration #1; best=30858
+ > iteration #2; best=30858
+ > iteration #3; best=30858
+ > iteration #4; best=30858
+ > iteration #5; best=30858
+ > iteration #6; best=30858
+ > iteration #7; best=30858
+ > iteration #8; best=30858
+ > iteration #9; best=30858
+ > iteration #10; best=30858
+ > iteration #11; best=30858
+ > iteration #12; best=30858
+ > iteration #13; best=30858
+ > iteration #14; best=30858
+ > iteration #15; best=30858
+ > iteration #16; best=30858
+ > iteration #17; best=30858
+ > iteration #18; best=30858
+ > iteration #19; best=29036
+ > iteration #20; best=29036
+ > iteration #21; best=29036
+ > iteration #22; best=29036
+ > iteration #23; best=29036
+ > iteration #24; best=29036
+ > iteration #25; best=29036
+ > iteration #26; best=29036
+ > iteration #27; best=29036
+ > iteration #28; best=29036
+ > iteration #29; best=29036
+ > iteration #30; best=29036
+ > iteration #31; best=29036
+ > iteration #32; best=29036
+ > iteration #33; best=29036
+ > iteration #34; best=29036
+ > iteration #35; best=29036
+ > iteration #36; best=29036
+ > iteration #37; best=29036
+ > iteration #38; best=29036
+ > iteration #39; best=29036
+ > iteration #40; best=29036
+ > iteration #41; best=29036
+ > iteration #42; best=29036
+ > iteration #43; best=29036
+ > iteration #44; best=29036
+ > iteration #45; best=29036
+ > iteration #46; best=29036
+ > iteration #47; best=29036
+ > iteration #48; best=29036
+ > iteration #49; best=29036
+ > iteration #50; best=29036
+ > iteration #51; best=29036
+ > iteration #52; best=29036
+ > iteration #53; best=29036
+ > iteration #54; best=29036
+ > iteration #55; best=29036
+ > iteration #56; best=29036
+ > iteration #57; best=29036
+ > iteration #58; best=29036
+ > iteration #59; best=29036
+ > iteration #60; best=29036
+ > iteration #61; best=29036
+ > iteration #62; best=29036
+ > iteration #63; best=29036
+ > iteration #64; best=29036
+ > iteration #65; best=29036
+ > iteration #66; best=29036
+ > iteration #67; best=29036
+ > iteration #68; best=29036
+ > iteration #69; best=29036
+ > iteration #70; best=29036
+ > iteration #71; best=29036
+ > iteration #72; best=29036
+ > iteration #73; best=29036
+ > iteration #74; best=29036
+ > iteration #75; best=29036
+ > iteration #76; best=29036
+ > iteration #77; best=29036
+ > iteration #78; best=29036
+ > iteration #79; best=29036
+ > iteration #80; best=29036
+ > iteration #81; best=29036
+ > iteration #82; best=29036
+ > iteration #83; best=29036
+ > iteration #84; best=29036
+ > iteration #85; best=29036
+ > iteration #86; best=29036
+ > iteration #87; best=29036
+ > iteration #88; best=29036
+ > iteration #89; best=29036
+ > iteration #90; best=29036
+ > iteration #91; best=29036
+ > iteration #92; best=29036
+ > iteration #93; best=29036
+ > iteration #94; best=29036
+ > iteration #95; best=29036
+ > iteration #96; best=29036
+ > iteration #97; best=29036
+ > iteration #98; best=29036
+ > iteration #99; best=29036
+ > iteration #100; best=29036
+
+Ant Colony Run Time:  3.523007869720459  seconds
+
+Done. Best Solution: c=29036 v=[7, 3, 4, 5, 1, 0, 10, 9, 11, 14, 18, 17, 16, 20, 22, 21, 28, 27, 25, 19, 15, 24, 26, 23, 13, 12, 8, 6, 2]
+
+Process finished with exit code 0
